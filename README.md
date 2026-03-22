@@ -1,6 +1,6 @@
 # DataTool
 
-`DataTool` is a C++/ROOT-based library designed for reading, processing, and analyzing detector data in the **Crystal Eye** project.
+`DataTool` is a C++/ROOT-based library designed for reading, processing, and analyzing detector data in the **WINK** project.
 
 The core of the library is the `AlgDataAction` class, which provides a high-level interface for:
 
